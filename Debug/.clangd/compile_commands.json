@@ -1,0 +1,7 @@
+[
+   {
+      "directory" : "/home/brite/Documents/Projects/CCS/Junior Design Lab/Debug",
+      "command"   : "clang++ -I\"/opt/ccstudio/ccs/ccs_base/msp430/include\" -I\"/home/brite/Documents/Projects/CCS/Junior Design Lab\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "/home/brite/Documents/Projects/CCS/Junior Design Lab/main.c"
+   }
+]
