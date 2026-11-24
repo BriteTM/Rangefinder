@@ -1,0 +1,24 @@
+# Code Composer Studio / Eclipse build outputs
+Debug/
+Release/
+*.out
+*.map
+*.obj
+*.d
+*.pp
+*.linkinfo
+
+# Editor / LSP / local workspace artifacts
+.clangd/
+.cache/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.clangd
+.launches/
+.settings/
